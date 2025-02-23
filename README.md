@@ -7,5 +7,9 @@ Latihan dari bootcamp Dibimbing untuk membuat model ML yang sudah diajarkan dari
 3. Algoritma Random Forest
 4. Algoritma DecisionTreeClassifier
 
-## MANFAAT
 Untuk melihat perbadingan dari setiap algoritma ML mana yang paling bagus dan efektif untuk mencapai akurasi yang paling baik.
+
+## MANFAAT
+Iris mewakili 3 jenis bunga Iris (Setosa, Versicolour dan Virginica) dengan 4 atribut: panjang kelopak, lebar kelopak, panjang Ikelopak dan lebar kelopak.
+
+Latihan ini memberikan pemahaman mendalam tentang bagaimana Machine Learning dapat digunakan untuk klasifikasi data dengan membandingkan performa empat algoritma berbeda: Naïve Bayes, Logistic Regression, Random Forest, dan Decision Tree bekerja.
