@@ -1,4 +1,4 @@
-#% Machine_Learning_IRIS
+## Machine_Learning_IRIS
 Latihan dari bootcamp Dibimbing untuk membuat model ML yang sudah diajarkan dari mentor mentor yang tentunya mempunyai kualitas, profesional dan juga expert dibidangnya.
 
 ## MENGGUNAKAN 4 ALGORITMA
